@@ -1,6 +1,7 @@
 # OnlineJobPortal
 OnlineJobPortal using (JSP &amp; MySql /Oracle 10g)
 
+<a href="https://drive.google.com/open?id=16oX7xgVnMDXvRD4xbF15iQLx5DJ1PWwY">Download Full Report(GDrive)</a>
 
 INTRODUCTION TO THE PROJECT
 
